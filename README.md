@@ -18,3 +18,10 @@
 **Techniques to find MST**
 - Prim's Algorithm
 - Kruskal's Algorithm
+
+
+| Prim's Algorithm | Kruskal's Algorithm |
+|---------------------------------------- | ---------------------------------------- |
+| It starts to build the Minimum Spanning | It starts to build the Minimum Spanning Tree from the vertex 
+  Tree from any vertex in the graph.        carrying minimum weight in the graph.
+                                          
