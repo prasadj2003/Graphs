@@ -7,3 +7,8 @@
 **Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex(or node). Each node is a structure     and contains information like person id, name, gender and locale.**
 
 [Resource](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+
+**Traversl Techniques**
+-BFS(Breadth First Search)
+-DFS(Depth First Search)
+
