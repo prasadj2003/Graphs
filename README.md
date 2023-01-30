@@ -23,4 +23,6 @@
 | Prim's Algorithm | Kruskal's Algorithm |
 |---------------------------------------- | ---------------------------------------- |
 | It starts to build the Minimum Spanning Tree from any vertex in the graph. | It starts to build the Minimum Spanning Tree from the vertex carrying minimum weight in the graph. |
+
+| It traverses one node more than one time to get the minimum distance. | t traverses one node only once. |
                                           
