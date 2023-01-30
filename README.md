@@ -78,4 +78,6 @@ int main()
 } 
 ```
 
-~~maybe you can take Kruskal's implementation as homework~~
+maybe you can take Kruskal's implementation as **homework** 😅.
+
+
