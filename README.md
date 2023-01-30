@@ -9,6 +9,6 @@
 [Resource](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 **Traversl Techniques**
--BFS(Breadth First Search)
--DFS(Depth First Search)
+- BFS(Breadth First Search)
+- DFS(Depth First Search)
 
