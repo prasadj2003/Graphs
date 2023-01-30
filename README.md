@@ -77,3 +77,5 @@ int main()
 	return 0; 
 } 
 ```
+
+~~maybe you can take Kruskal's implementation as homework~~
