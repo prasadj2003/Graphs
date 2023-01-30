@@ -31,9 +31,9 @@
 | Applications of prim’s algorithm are Travelling Salesman Problem, Network for roads and Rail tracks connecting all the cities etc. | Applications of Kruskal algorithm are LAN connection, TV Network etc. |
 | Prim’s algorithm prefer list data structures. | Kruskal’s algorithm prefer heap data structures. |
 
-
+`Prim's Algorithm Implementation`
 ```C++
-`Prim's Algorithm`
+
 #include <bits/stdc++.h> 
 using namespace std; 
 #define V 4
